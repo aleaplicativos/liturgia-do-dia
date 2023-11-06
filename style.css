@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#liturgia-info {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+#data,
+#liturgia,
+#cor,
+#dia,
+#oferendas,
+#comunhao {
+  font-weight: bold !important;
+  margin-bottom: 10px;
+}
+
+#primeiraLeitura,
+#segundaLeitura,
+#salmo,
+#evangelho {
+  margin-top: 20px;
+  border-top: 1px solid #ccc;
+  padding-top: 20px;
+}
